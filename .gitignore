@@ -1,0 +1,28 @@
+# KiCAD backup and autosave files
+*.bak
+*.b#*
+*.s#*
+*.tmp
+*.kicad_prl
+.autosave
+*.backup
+*~
+
+# Simulation files
+*.log
+*.raw
+*.cir
+
+# Auto-generated files and cache
+*.save
+*.cache
+fp-info-cache/
+
+# Ignore user-specific settings
+*.kicad_sym
+*.kicad_pcb-bak
+*.kicad_dru
+
+# System files
+.DS_Store
+Thumbs.db
