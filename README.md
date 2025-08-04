@@ -5,7 +5,6 @@ This is a custom Raspberry Pi HAT (Hardware Attached on Top) designed using the 
 ## 📡 Key Features
 
 - **SIM7600 4G Module**
-  - LTE CAT1 or CAT4 support (depending on variant)
   - GPS/GLONASS positioning
   - SMS send/receive support
 - **Compatible with Raspberry Pi GPIO Header (40-pin)**
